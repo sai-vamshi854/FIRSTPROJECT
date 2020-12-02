@@ -72,7 +72,7 @@ footer li {
 }
 
 .text-m {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 img{
     border-radius: 2rem;
@@ -82,13 +82,13 @@ img{
 }
 p{
     padding: 1rem 1rem 0rem 1rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 .bio{
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 .tag{
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 /*.bottom{
     font-family: Arial, Helvetica, sans-serif;
